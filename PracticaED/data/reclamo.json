@@ -1,0 +1,29 @@
+{
+    "controlador.ed.cola.Cola": {
+        "cola": {
+            "cabecera": {
+                "info": {
+                    "@class": "modelo.Reclamo",
+                    "texto": "no guarda",
+                    "fecha": "2023-05-24 05:15:40.719 UTC"
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Reclamo",
+                        "texto": "prueba reclamos",
+                        "fecha": "2023-05-24 05:15:58.238 UTC"
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Reclamo",
+                            "texto": "",
+                            "fecha": "2023-05-24 05:16:03.903 UTC"
+                        }
+                    }
+                }
+            },
+            "size": 3,
+            "tope": 10
+        }
+    }
+}
